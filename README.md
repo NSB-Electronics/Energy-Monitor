@@ -3,7 +3,7 @@ Energy Monitor project files containing hardware schematics and firmware.
 
 Features:
 
-- Voltage range: 180 to 265Vrms
+- Voltage range: 180 - 265Vrms
 - Current range: 0 - 60Arms (3x CT's)
 - Frequency measurement
 - Interrupt driven
